@@ -46,7 +46,7 @@ let TeamContent = [
   {
     images: 'wassimm',
     title: 'Eng. Wassim Sliti',
-    designation: ' Tech Lead | AI&ML Engineer',
+    designation: ' Tech Lead | Computer Vision  Engineer',
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
@@ -65,7 +65,7 @@ let TeamContent = [
   {
     images: 'maher',
     title: 'Eng. Maher Boughdiri',
-    designation: 'Product Lead MVAI | IoT&Blockchain Specialist | PhD Student',
+    designation: 'Product Lead MVAI | IoT & Blockchain Specialist | PhD Student',
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
@@ -84,7 +84,7 @@ let TeamContent = [
   {
     images: 'iheb',
     title: 'Eng. Iheb Chhaibi',
-    designation: 'Data Scientist | Digital Twins Specialist',
+    designation: 'AI & ML Engineer ',
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
@@ -120,9 +120,29 @@ let TeamContent = [
     ],
   },
   {
-    images: 'rayen',
-    title: 'Med Rayen Taamallah',
-    designation: 'Marketing Manager',
+    images: 'hamdi',
+    title: 'Iheb Hamdi ',
+    designation: ' Web developer & Digital Twins Specialist ',
+    socialNetwork: [
+      {
+        icon: <FaFacebookF className="fa-linkedin"/>,
+        url: '#',
+      },
+      {
+        icon: <FaLinkedinIn className="fa-linkedin"/>,
+        url: '#',
+      },
+      {
+        icon: <FaTwitter className="fa-twitter"  />,
+        url: '#',
+      },
+    ],
+  }
+  ,
+  {
+    images: 'nidhal',
+    title: 'Nidhal Jaafri ',
+    designation: ' Robotics Engineer',
     socialNetwork: [
       {
         icon: <FaFacebookF className="fa-linkedin"/>,
