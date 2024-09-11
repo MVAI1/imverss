@@ -360,7 +360,7 @@ const PortfolioLanding = () => {
         <div className='container'>
           <div className='col-lg-12'>
             <div className='section-title text-center service-style--3 mb--30 mb_sm--0'>
-              <h2 className='title'>We Work With the Best Partners</h2>
+              <h2 className='title'>Our Partners</h2>
             </div>
           </div>
           <Testimonial />

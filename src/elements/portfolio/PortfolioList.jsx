@@ -106,7 +106,7 @@ let TeamContent = [
   {
     images: 'raouf',
     title: 'DVM Raouf Dhaouadi',
-    designation: 'Associate Professor of Hospital and University at ENMV',
+    designation: 'President of ENMV & Doctor of Veterinary Medicine',
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
